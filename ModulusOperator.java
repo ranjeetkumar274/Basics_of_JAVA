@@ -6,7 +6,7 @@ public class ModulusOperator {
         System.out.print("enetr your num a :");
         int a = sc.nextInt();
         System.out.print("enter your num b :");
-        int b = sc.nextInt();
+        int b = sc.nextInt():
         int c = a%b;
         System.out.println(c);
     }
